@@ -1,7 +1,7 @@
 # react-awesome-a11y
 A list of a11y react components
 
-# Dropdowns
+## Dropdowns
 ### Components
 https://github.com/downshift-js/downshift
 
